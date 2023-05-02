@@ -1,0 +1,13 @@
+
+DIFERENTE DO EXERCICIO ANTERIOR, NESTE IREMOS USAR POLIMORFISMO
+
+
+Vimos que que polimorfismo é o princípio pelo qual duas ou mais classes derivadas de uma superclasse podem invocar métodos
+ que tem a mesma assinatura(metodos com mesmo nome mas com parametros diferentes)
+Implmente um programa java para atender as seguintes regras de negócio:
+Admita que agora que superclaase possui um método de envio de email.
+ Elabore uma lógica, que esta clase implemente, para envio de email,
+usando polimorfismo imprimir os dados e enviar os email
+pede-se: 
+      Com a utilização de conceitos de polimorfismo, implemente lógicas de negócio diferente para cada envio de email,
+ relativas às subclasses, ou seja, as regras de envio de email para funcionário, professor e aluno são diferentes.

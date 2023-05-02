@@ -1,0 +1,5 @@
+Implmente um programa java para atender as seguintes regras de negócio:
+Este é um sistema que atende a uma escola
+A escola  deve enviar um email com solicitando a presença do aluno na secretaria
+A escola emite um email convocando o funcionario para fazer exame médico
+A escola emit um email ao professor informando período de férias da istituição
